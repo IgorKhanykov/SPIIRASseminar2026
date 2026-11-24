@@ -1,4 +1,8 @@
 # SPIIRASseminar2026
+
+2026/11/24, Saint-Petersburg, Peterhof, 2305
+
+
 A cut version of a presentation for an SPIIRAS seminar, summarizing the findings of a dissertation research project
 
 PDF-file "Kn26seminar_BriefShort.pdf" contains part of presentation on results of PhD dissertation research project. 
