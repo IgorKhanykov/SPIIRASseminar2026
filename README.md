@@ -3,12 +3,12 @@ A cut version of a presentation for an SPIIRAS seminar, summarizing the findings
 
 PDF-file "Kn26seminar_BriefShort.pdf" contains part of presentation on results of PhD dissertation research project. 
 Present slides:
-Title (1 slide)
-Copyright (1 slide) (Copyright protection is applied to safeguard the intellectual results presented here against unauthorized use or misappropriation)
-Essence (1 slide)
-BLUF: results of the study from 2014 to 2026 (1 slide)
-Problem statement (4 slides+4 slides)
-Summary, conclusions, and final remarks (7 slides)
+1) Title (1 slide)
+2) Copyright (1 slide) (Copyright protection is applied to safeguard the intellectual results presented here against unauthorized use or misappropriation)
+3) Essence (1 slide)
+4) BLUF: results of the study from 2014 to 2026 (1 slide)
+5) Problem statement (4 slides+4 slides)
+6) Summary, conclusions, and final remarks (7 slides)
 
 Omitted slides in cut version:
 1) module of intellectual calculation (“Battery 2”) (1 slide)
